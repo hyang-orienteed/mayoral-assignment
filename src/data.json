@@ -1,0 +1,167 @@
+[
+    {
+      "id": 1,
+      "name": "Cotton T-Shirt",
+      "price": 19.99,
+      "colors": ["#FFF"],
+      "imageUrl": "https://example.com/tshirt.jpg",
+      "releaseDate": "2023-03-01"
+    },
+    {
+      "id": 2,
+      "name": "Denim Jeans",
+      "price": 39.99,
+      "colors": ["#FFF", "#000"],
+      "discount": 20,
+      "imageUrl": "https://example.com/jeans.jpg",
+      "releaseDate": "2023-04-15"
+    },
+    {
+      "id": 3,
+      "name": "Hooded Sweatshirt",
+      "colors": ["#FFF", "#000"],
+      "price": 29.99,
+      "imageUrl": "https://example.com/sweatshirt.jpg",
+      "releaseDate": "2023-02-10"
+    },
+    {
+      "id": 4,
+      "name": "Striped Polo Shirt",
+      "colors": ["#FFF", "#000"],
+      "price": 24.99,
+      "imageUrl": "https://example.com/poloshirt.jpg",
+      "releaseDate": "2023-05-05"
+    },
+    {
+      "id": 5,
+      "name": "Cargo Shorts",
+      "colors": ["#FFF"],
+      "price": 34.99,
+      "imageUrl": "https://example.com/cargoshorts.jpg",
+      "releaseDate": "2023-03-20"
+    },
+    {
+      "id": 6,
+      "name": "Suede Sneakers",
+      "colors": ["#FFF"],
+      "price": 49.99,
+      "discount": 20,
+      "imageUrl": "https://example.com/sneakers.jpg",
+      "releaseDate": "2023-01-15"
+    },
+    {
+      "id": 7,
+      "name": "Floral Dress",
+      "colors": ["#FFF"],
+      "price": 59.99,
+      "imageUrl": "https://example.com/floraldress.jpg",
+      "releaseDate": "2023-04-01"
+    },
+    {
+      "id": 8,
+      "name": "Wool Coat",
+      "colors": ["#FFF"],
+      "price": 89.99,
+      "imageUrl": "https://example.com/woolcoat.jpg",
+      "releaseDate": "2023-02-28"
+    },
+    {
+      "id": 9,
+      "name": "Track Pants",
+      "colors": ["#FFF"],
+      "price": 27.99,
+      "discount": 20,
+      "imageUrl": "https://example.com/trackpants.jpg",
+      "releaseDate": "2023-06-10"
+    },
+    {
+      "id": 10,
+      "name": "Leather Backpack",
+      "colors": ["#FFF", "#000"],
+      "price": 69.99,
+      "imageUrl": "https://example.com/backpack.jpg",
+      "releaseDate": "2023-07-05"
+    },
+    {
+      "id": 11,
+      "name": "Knit Sweater",
+      "colors": ["#FFF"],
+      "price": 45.99,
+      "imageUrl": "https://example.com/knitsweater.jpg",
+      "releaseDate": "2023-09-15"
+    },
+    {
+      "id": 12,
+      "name": "Chino Pants",
+      "colors": ["#FFF"],
+      "price": 31.99,
+      "imageUrl": "https://example.com/chinopants.jpg",
+      "releaseDate": "2023-08-01"
+    },
+    {
+      "id": 13,
+      "name": "Bomber Jacket",
+      "colors": ["#FFF", "#000"],
+      "price": 79.99,
+      "discount": 20,
+      "imageUrl": "https://example.com/bomberjacket.jpg",
+      "releaseDate": "2023-11-20"
+    },
+    {
+      "id": 14,
+      "name": "Graphic T-Shirt",
+      "colors": ["#FFF"],
+      "price": 22.99,
+      "imageUrl": "https://example.com/graphictshirt.jpg",
+      "releaseDate": "2023-10-05"
+    },
+    {
+      "id": 15,
+      "name": "Pleated Skirt",
+      "colors": ["#FFF"],
+      "price": 37.99,
+      "imageUrl": "https://example.com/pleatedskirt.jpg",
+      "releaseDate": "2023-12-10"
+    },
+    {
+      "id": 16,
+      "name": "Sports Bra",
+      "colors": ["#FFF"],
+      "price": 14.99,
+      "imageUrl": "https://example.com/sportsbra.jpg",
+      "releaseDate": "2024-01-01"
+    },
+    {
+      "id": 17,
+      "name": "Camouflage Jacket",
+      "colors": ["#FFF"],
+      "price": 64.99,
+      "imageUrl": "https://example.com/camojacket.jpg",
+      "releaseDate": "2024-02-15"
+    },
+    {
+      "id": 18,
+      "name": "Ripped Jeans",
+      "colors": ["#FFF"],
+      "price": 44.99,
+      "imageUrl": "https://example.com/rippedjeans.jpg",
+      "releaseDate": "2024-03-01"
+    },
+    {
+      "id": 19,
+      "name": "V-Neck Sweater",
+      "colors": ["#FFF"],
+      "price": 34.99,
+      "imageUrl": "https://example.com/vnecksweater.jpg",
+      "releaseDate": "2024-04-10"
+    },
+    {
+      "id": 20,
+      "name": "Canvas Sneakers",
+      "colors": ["#FFF"],
+      "price": 29.99,
+      "imageUrl": "https://example.com/canvassneakers.jpg",
+      "releaseDate": "2024-05-05"
+    }
+]
+  
