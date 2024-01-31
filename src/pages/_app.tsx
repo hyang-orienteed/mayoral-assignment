@@ -1,3 +1,4 @@
+import "globals.css"
 import { NextPage } from "next";
 
 const HomePage: NextPage = () => {
