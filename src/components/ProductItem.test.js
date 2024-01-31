@@ -22,11 +22,11 @@ const product2 =
 
 test('changes the text depends on the item', () => {
     const { rerender } = render(<ProductItem product={product1} />)
-    expect(screen.queryByText('colores')).toBeNull();
-    expect(screen.queryAllByText('€')).toBe(1);
+    expect(screen.queryByTestId('colors')).toBeNull();
+    expect(screen.queryByTestId('discount')).toBeNull();
 
     // re-render the same component with different props
     rerender(<ProductItem product={product2} />)
-    expect(screen.queryByText('colores')).toBe(1);
-    expect(screen.queryAllByText('€')).toBe(2);
+    expect(screen.queryByTestId('colors')).toBeInTheDocument();
+    expect(screen.queryByTestId('discount')).toBeInTheDocument();
 });

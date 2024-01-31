@@ -18,18 +18,18 @@ const ProductItem = ({ product }: { product: Product }) => {
                 {name}
             </span>
             <div className="flex flex-col p-5">
-                <span className={discount ? "line-through" : ""}>
+                <span data-testid="price" className={discount ? "line-through" : ""}>
                     {`${price} €`}
                 </span>
                 {discount && (
-                    <span className="text-red-500">
+                    <span data-testid="discount" className="text-red-500">
                         {`${(price * (1 - discount / 100)).toFixed(2)} € (-${discount}%)`}
                     </span>
                 )}
             </div>
             <div className="flex flex-col gap-4 mt-auto mb-2">
                 {colors.length > 1 && (
-                    <span className="text-gray-400">más colores</span>
+                    <span data-testid="colors" className="text-gray-400">más colores</span>
                 )}
                 <button className="py-2 px-4 uppercase rounded-md bg-blue-500 text-sm text-white  w-fit">
                     añadir
